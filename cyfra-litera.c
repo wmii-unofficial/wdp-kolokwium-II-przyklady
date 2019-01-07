@@ -46,7 +46,3 @@ int czyCyfra(char znak)
     if (znak>='0' && znak<='9')return 1;
     return 0;
 }
-
-//if(haslo[0] jest cyfrą?)
-//if(haslo[1]-haslo[5?] to litery)
-//if(haslo[lokalizacja myslnika] to myslnik)?
